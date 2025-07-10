@@ -1,4 +1,4 @@
-![463052447-9812e660-046c-4d30-9dd5-5468572b2cc7](https://github.com/user-attachments/assets/259ae3aa-a745-4d0c-914b-c3c24aea3b9f)25/6/2025
+25/6/2025
 
  First day of training 
 
