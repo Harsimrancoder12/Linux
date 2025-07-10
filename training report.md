@@ -579,4 +579,28 @@ Backups are essential for recovery in case of OS failure or data loss.
 7. Remove the cable from the tool and check that all of the pins are down & test the cable.
 
 ![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/RJ45-02.jpg)
-   
+
+   DAY 7  03/07/2025
+## **Introduction to HTML & Web Basics**
+
+### HTML:
+* HTML stands for HyperText Markup Language.
+* It is the standard markup language for creating web pages and web applications.
+* HTML defines the structure and content of a web page.
+
+### **How browsers render it:**
+
+1. The browser reads the HTML file line by line.
+2. It builds the **DOM (Document Object Model)** — a tree-like structure of the page.
+3. The browser then displays the structured content visually based on HTML + CSS.
+
+###  Structure of an HTML Document
+* `<!DOCTYPE>` declaration defines that this document is an HTML5 document
+* `<html>` element is the root element of an HTML page
+* `<head>` element contains meta information about the HTML page
+* `<title>` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+* `<body>` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+* `<h1>` element defines a large heading
+* `<p>` element defines a paragraph
+
+![](https://github.com/Kamal-jeetkaur/Daily_bash_notes_2025/blob/main/images/html.jpg)
