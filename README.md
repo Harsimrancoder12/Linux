@@ -37,8 +37,8 @@ After powering up, the display only showed a black screen with error:
 - Go to settings -> Display
 - Change the Graphics controller to **VBoxVGA.**
   
-   ![Solved](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-06-25 210905.png)
-   ![Solved](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-06-25 211122.png)
+   ![Solved](images/Screenshot%202025-06-25%20210905.png)
+   ![Solved](images/Screenshot%202025-06-25%20211122.png)
 
 ## Booting and its types:
 Booting is the process of starting up or restarting a computer, which involves initializing hardware, loading the operating system, and preparing the computer for use.
