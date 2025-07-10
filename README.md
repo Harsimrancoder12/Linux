@@ -30,15 +30,18 @@
 ## Issues faced:
 After powering up, the display only showed a black screen with error:
 
-![Error](../images/error.jpg)
+![Error](![error](https://github.com/user-attachments/assets/c0bf13a8-2e91-42c5-aa08-5aefe5ef5449)
+)
 
 
 **To solve:**
 - Go to settings -> Display
 - Change the Graphics controller to **VBoxVGA.**
   
-   ![Solved](images/Screenshot%202025-06-25%20210905.png)
-   ![Solved](images/Screenshot%202025-06-25%20211122.png)
+   ![Solved](<img width="1920" height="1080" alt="Screenshot 2025-06-25 210905" src="https://github.com/user-attachments/assets/e74deb30-3ea8-4bda-8641-c132d8d2ab32" />
+)
+   ![Solved](<img width="1920" height="1080" alt="Screenshot 2025-06-25 211122" src="https://github.com/user-attachments/assets/f9eaa6cd-524d-4ebe-b93b-d329a80bd360" />
+)
 
 ## Booting and its types:
 Booting is the process of starting up or restarting a computer, which involves initializing hardware, loading the operating system, and preparing the computer for use.
