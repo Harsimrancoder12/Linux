@@ -32,7 +32,7 @@ Booting - Booting is the process of starting or resetting a computer.
 
 Cold booting is starting a computer from a completely powered-off state, while warm booting is restarting a computer that is already on. 
 
- 26/06/2025
+ ## 26/06/2025##
 
   Introduction to Kernel , Shell its types and    different commands
  
@@ -138,7 +138,7 @@ Help organize data and install multiple OS.
  It supports upto 128 partitions .It supports disks larger than 2 TB.More flexibile.
 
 
- 27/06/2025 
+## 27/06/2025 
 ## Permissions & Shell programming:
 ### File and directory permissions:
 `chmod` (Change mode): It is used to change the access permissions of files and directories.
@@ -292,7 +292,7 @@ A **partitioning scheme** is the way a hard disk or SSD is **divided into sectio
 * Direct installation in computer hardware.
 * No OS should be in between.
 
-30/06/2025
+## 30/06/2025
 
 Hardware 
 
@@ -368,7 +368,7 @@ Imagine your computer as a big city, and the motherboard as the main road system
 
   !(Uploading 463052447-9812e660-046c-4d30-9dd5-5468572b2cc7.jpeg…)
 
- 01/07/2025
+## 01/07/2025
   ## Common issues and Problems in PC:
 
 ### GPU (Graphics processor unit):
@@ -490,7 +490,7 @@ Essential for protection against viruses, malware, and spyware.
 **Help Shortcut:**<br>
 Press **F1** to open help tool in Windows.
 
-02/07/2025
+## 02/07/2025
 ### Safe mode:
 Safe Mode is a diagnostic mode in Windows that starts the computer with a minimal set of drivers and services, which makes it easier to find and remove harmful malware and viruses without activating them.
 
@@ -556,7 +556,7 @@ Backups are essential for recovery in case of OS failure or data loss.
 - Commonly used for LAN (Local Area Network) connections.
 
 *Cat5, Cat6, Cat6e: Categories of twisted-pair cables used in wired networks, offering various speeds and shielding levels.*
-
+## 04/07/2025
 ## How to Make a RJ‐45 Cable:
 1. Strip the cable to remove 1 inch of the outer sheath.
 2. Untwist and straighten the wires inside of the cable
@@ -580,7 +580,7 @@ Backups are essential for recovery in case of OS failure or data loss.
 
 ![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/RJ45-02.jpg)
 
- 07/07/2025
+## 07/07/2025
 ## **Introduction to HTML & Web Basics**
 
 ### HTML:
@@ -605,8 +605,7 @@ Backups are essential for recovery in case of OS failure or data loss.
 
 ![](https://github.com/Kamal-jeetkaur/Daily_bash_notes_2025/blob/main/images/html.jpg)
 
-
-08/07/2025
+## 08/07/2025
 ## Introduction to HTML & Web Basics
 
 ### Common HTML Tags
@@ -678,7 +677,7 @@ Semantic tags describe **meaning and structure**, making code more readable and 
 * `<section>` – groups related content within a page
 * `<article>` – independent content (like a blog post or news item)
 
-10/07/2025
+## 10/07/2025
 
 ## **Basic Styling Using CSS**
 
@@ -711,7 +710,7 @@ Semantic tags describe **meaning and structure**, making code more readable and 
   </head>
   ```
 
-11/07/2025
+## 11/07/2025
 ## Introduction to Git and Version Control:
 
 ### What is Git and Why Use Version Control
