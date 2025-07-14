@@ -32,7 +32,7 @@ Booting - Booting is the process of starting or resetting a computer.
 
 Cold booting is starting a computer from a completely powered-off state, while warm booting is restarting a computer that is already on. 
 
- Day 2   26/06/2025
+ 26/06/2025
 
   Introduction to Kernel , Shell its types and    different commands
  
@@ -138,7 +138,7 @@ Help organize data and install multiple OS.
  It supports upto 128 partitions .It supports disks larger than 2 TB.More flexibile.
 
 
- 27/06/2025 Day 3
+ 27/06/2025 
 ## Permissions & Shell programming:
 ### File and directory permissions:
 `chmod` (Change mode): It is used to change the access permissions of files and directories.
@@ -291,7 +291,8 @@ A **partitioning scheme** is the way a hard disk or SSD is **divided into sectio
 * Installation directly using USB.
 * Direct installation in computer hardware.
 * No OS should be in between.
-DAY 4 30/06/2025
+
+30/06/2025
 
 Hardware 
 
@@ -367,8 +368,7 @@ Imagine your computer as a big city, and the motherboard as the main road system
 
   !(Uploading 463052447-9812e660-046c-4d30-9dd5-5468572b2cc7.jpeg…)
 
-  
-DAY 5 01/07/2025
+ 01/07/2025
   ## Common issues and Problems in PC:
 
 ### GPU (Graphics processor unit):
@@ -490,7 +490,7 @@ Essential for protection against viruses, malware, and spyware.
 **Help Shortcut:**<br>
 Press **F1** to open help tool in Windows.
 
-DAY 6 02/07/2025
+02/07/2025
 ### Safe mode:
 Safe Mode is a diagnostic mode in Windows that starts the computer with a minimal set of drivers and services, which makes it easier to find and remove harmful malware and viruses without activating them.
 
@@ -580,7 +580,7 @@ Backups are essential for recovery in case of OS failure or data loss.
 
 ![](https://github.com/KamaljeetKaur00/Daily_bash_notes_2025/blob/main/images/RJ45-02.jpg)
 
-   DAY 7  03/07/2025
+ 07/07/2025
 ## **Introduction to HTML & Web Basics**
 
 ### HTML:
@@ -604,3 +604,212 @@ Backups are essential for recovery in case of OS failure or data loss.
 * `<p>` element defines a paragraph
 
 ![](https://github.com/Kamal-jeetkaur/Daily_bash_notes_2025/blob/main/images/html.jpg)
+
+
+08/07/2025
+## Introduction to HTML & Web Basics
+
+### Common HTML Tags
+
+**1. Headings:**
+
+* Tags: `<h1>` to `<h6>`
+* `<h1>` is the largest, `<h6>` the smallest
+* Used to define titles or section headers
+
+**2. Paragraphs:**
+
+* Tag: `<p>`
+* Used to define a block of text (paragraph)
+* Automatically adds spacing before and after
+
+**3. Lists:**
+
+* **Ordered List**: `<ol>` for numbered lists
+
+  * Each item inside: `<li>`
+* **Unordered List**: `<ul>` for bullet-point lists
+
+  * Each item inside: `<li>`
+
+**4. Links:**
+
+* Tag: `<a href="URL">link text</a>`
+* Used to create clickable hyperlinks
+* Can link to external sites, internal pages, or email addresses
+
+**5. Images:**
+
+* Tag: `<img src="image.jpg" alt="description">`
+* `src`: source of the image
+* `alt`: alternative text shown if image can't load
+
+  ![](../images/BasicHtml.jpg)
+
+  09/07/2025
+  ## Introduction to HTML & Web Basics
+
+### Forms and Input Types:
+
+* Forms allow users to **enter and submit data** to a server or script
+* Tag: `<form>` – wraps all input elements
+* Common **input types**:
+
+  * `<input type="text">` – single-line text field
+  * `<input type="password">` – hides text for passwords
+  * `<input type="email">` – for email input (validates format)
+  * `<input type="number">` – numeric input only
+  * `<input type="checkbox">` – select one or more options
+  * `<input type="radio">` – select only one from a group
+  * `<input type="submit">` – button to submit the form
+  * `<textarea>` – for multi-line text
+  * `<select>` – dropdown list of options
+
+    ![](../images/formHtml.jpg)
+    
+
+### Semantic HTML:
+
+Semantic tags describe **meaning and structure**, making code more readable and accessible:
+
+* `<header>` – top section of a page or article (often includes logo or title)
+* `<footer>` – bottom section (copyright, contact info, links)
+* `<nav>` – navigation links/menu for the site
+* `<section>` – groups related content within a page
+* `<article>` – independent content (like a blog post or news item)
+
+10/07/2025
+
+## **Basic Styling Using CSS**
+
+**1. Inline CSS:**
+
+* Styling applied **directly inside an HTML tag** using the `style` attribute
+* Example:
+
+  ```html
+  <p style="color: blue; font-size: 18px;">This is a styled paragraph.</p>
+  ```
+
+**2. Internal CSS:**
+
+* CSS written inside a `<style>` tag within the `<head>` section of the HTML document
+* Used to style the **whole page in one place**
+* Example:
+
+  ```html
+  <head>
+    <style>
+      body {
+        background-color: #f0f0f0;
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        color: darkgreen;
+      }
+    </style>
+  </head>
+  ```
+
+11/07/2025
+## Introduction to Git and Version Control:
+
+### What is Git and Why Use Version Control
+
+* **Git** is a **distributed version control system** used to track changes in source code during software development.
+* It helps manage code across multiple versions, developers, and updates.
+* **Version control** allows:
+
+  * Tracking changes over time
+  * Restoring previous versions of files
+  * Collaboration among multiple developers without conflicts
+  * Safe experimentation with new features
+
+### Git Architecture
+
+**1. Repository (Repo)**
+
+* A **storage area** where Git tracks all file changes
+* Can be:
+
+  * **Local**: on your computer
+  * **Remote**: on platforms like GitHub, GitLab
+
+**2. Working Tree**
+
+* The actual files and directories you're currently working on in your system
+* Reflects the current state of your code
+* You make changes in the working tree before committing them
+
+**3. Index (Staging Area)**
+
+* A **temporary area** where you add files before committing to the repo
+* It allows you to prepare exactly what will go into the next commit
+* Acts as a buffer between the working directory and the repository
+
+![](https://d8it4huxumps7.cloudfront.net/uploads/images/6465f5b7125e4_what_is_git_1.jpg?d=2000x2000)
+
+
+## How to use Git? (With Command Line)
+
+1. Create a repository<br>
+![](../images/Git1.jpg)
+
+2. Copy the HTML line of the repo<br>
+![](../images/Git2.jpg)
+
+3. Go to Git Bash
+
+4. Run command: `git clone link`
+
+5. Check if you got the repo cloned on your local dive by `ls`
+
+6. Move inside the direcotry by `cd repo_name`
+
+7. Check the content inside your repo (optional)
+
+8. Check status of the repo by `git status`
+   * If the response id 'Up to date', you are good to move forward
+![](../images/Git3.jpg)
+
+9. Create a new file by `touch file_name.html`
+
+10. Open the file by `nano file_name.html`, write your code and save it.<br>
+![](../images/Git4.jpg)
+
+11. Add by: `git add file_name.html`<br>
+![](../images/Git5.jpg)
+
+### Warning Explained:
+
+> `warning: in the working copy of 'first.html', LF will be replaced by CRLF the next time Git touches it`
+- Right now the file has Unix-style (`LF`) endings, but since im on Windows, Git may convert it to Windows-style (`CRLF`) later.
+- It's **safe to ignore**
+
+12. `git push origin main`:
+    - It directs and you get asked to authorize Git Credential Manager, which securely saves GitHub login credentials for pushing/pulling code. <br>
+   
+    ![](../images/Git6.jpg)
+
+    - Click on 'Authorize git-ecosystem'
+      
+    ![](../images/Git7.jpg)
+    
+    - Enter your password
+      
+    ![](../images/Git8.jpg)
+
+ 14. To commit: `git commit -m "message"`
+     ![](../images/Git9.jpg)
+     - I haven’t set a Git identity yet, so git commit cannot proceed.
+     - To fix this run:
+     - git config --global user.name "name"
+     - git config --global user.email "your-email@example.com"<br>
+       > **email should match your Github email, but its not necessary for `name`**<br>
+ 15. Try `git commit -m "message"` again, and push this by command: `git push origin main`:
+           
+       ![](../images/Git10.jpg)
+
+
+17. Now you can see the file in your repo:
+    ![](../images/Git11.jpg)
