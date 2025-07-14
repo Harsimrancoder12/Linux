@@ -1,6 +1,6 @@
-25/6/2025
+## 25/6/2025
 
- First day of training 
+ # First day of training 
 
 In first day of training, i learned about linux in detail and different types of companies. 
    
@@ -32,7 +32,7 @@ Booting - Booting is the process of starting or resetting a computer.
 
 Cold booting is starting a computer from a completely powered-off state, while warm booting is restarting a computer that is already on. 
 
- ## 26/06/2025##
+ ## 26/06/2025
 
   Introduction to Kernel , Shell its types and    different commands
  
